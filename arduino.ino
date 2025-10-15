@@ -22,4 +22,4 @@ void loop() {
     Serial.print("{\"erro\":true}");
   }
   delay(2000);
-}
+}\
